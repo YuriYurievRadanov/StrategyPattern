@@ -1,0 +1,11 @@
+D:\InterviewS\PREPARING\DESIGNPATTERN\StrategyPattern\Strategy\Strategy\bin\Debug\netcoreapp2.0\Strategy.deps.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\StrategyPattern\Strategy\Strategy\bin\Debug\netcoreapp2.0\Strategy.runtimeconfig.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\StrategyPattern\Strategy\Strategy\bin\Debug\netcoreapp2.0\Strategy.runtimeconfig.dev.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\StrategyPattern\Strategy\Strategy\bin\Debug\netcoreapp2.0\Strategy.dll
+D:\InterviewS\PREPARING\DESIGNPATTERN\StrategyPattern\Strategy\Strategy\bin\Debug\netcoreapp2.0\Strategy.pdb
+D:\InterviewS\PREPARING\DESIGNPATTERN\StrategyPattern\Strategy\Strategy\obj\Debug\netcoreapp2.0\Strategy.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\StrategyPattern\Strategy\Strategy\obj\Debug\netcoreapp2.0\Strategy.csproj.CoreCompileInputs.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\StrategyPattern\Strategy\Strategy\obj\Debug\netcoreapp2.0\Strategy.AssemblyInfoInputs.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\StrategyPattern\Strategy\Strategy\obj\Debug\netcoreapp2.0\Strategy.AssemblyInfo.cs
+D:\InterviewS\PREPARING\DESIGNPATTERN\StrategyPattern\Strategy\Strategy\obj\Debug\netcoreapp2.0\Strategy.dll
+D:\InterviewS\PREPARING\DESIGNPATTERN\StrategyPattern\Strategy\Strategy\obj\Debug\netcoreapp2.0\Strategy.pdb
